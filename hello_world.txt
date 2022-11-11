@@ -1,0 +1,3 @@
+I'm Rachel, a Computer Science Undergraduate student.
+I'm learning about web development right now following The Odin Project's course path.
+^^ <3
